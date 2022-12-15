@@ -1,25 +1,25 @@
 
 body {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: font-family: Georgia, serif;
   color: yellow;
   background-image: url("ugly.jpeg");
   font-size: 50px;}
 
 p {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: font-family: Georgia, serif;
   color: yellow;
   background-image: url("ugly.jpeg");
   font-size: 50px;}
 
 h1 {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: font-family: Georgia, serif;
   color: black;
   margin-left: 20px;
   font-size: 75px;
 }
 
 h2 {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: font-family: Georgia, serif;
   color: yellow;
   margin-left: 20px;
   font-size: 25px;
